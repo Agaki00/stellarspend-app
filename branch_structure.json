@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/312-transactions-metadata",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/312-transactions-metadata": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/312-transactions-metadata",
+    "origin"
+  ]
+}
